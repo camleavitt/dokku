@@ -1,0 +1,8 @@
+*.deb
+*.rpm
+.DS_Store
+.ruby-version
+.vagrant
+data/
+stack.tgz
+tmp
